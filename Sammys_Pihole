@@ -1,0 +1,19 @@
+# Title: Sammy's The Foxxo's DNS List
+# Description: A Pi-hole DNS Block List - Removes ads using Pihole for a safer and cleaner network.
+# Homepage: https://github.com/Foxnet-Crew/DNS-List
+# License: https://github.com/Foxnet-Crew/DNS-List/blob/main/LICENSE
+# Expires: 1 day
+# Last modified: 10 Dec 2024 03:32 UTC
+# Version: 2024.1210.0332.37
+# Syntax: Domains (including possible subdomains)
+#
+||discordapp.com^
+||chrome.cloudflare-dns.com^
+||youtubei.googleapis.com^
+||i.ytimg.com^
+||doh.xfinity.com
+||chrome.cloudflare-dns.com^
+||cdn.discordapp.com^
+||play.googleapis.com^
+||aws.api.sc-gw.com^
+||www.google.com^
